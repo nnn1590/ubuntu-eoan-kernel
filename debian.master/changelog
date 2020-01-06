@@ -1,4 +1,4 @@
-linux (5.3.0-26.28) eoan; urgency=medium
+linux (5.3.0-26.28+patch1) eoan; urgency=medium
 
   * eoan/linux: 5.3.0-26.28 -proposed tracker (LP: #1856807)
 
